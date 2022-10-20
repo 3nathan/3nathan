@@ -1,4 +1,3 @@
-I am an Electrical and Electronic Engineering student at Imperial College London ('25).
-I am interested in robotics, automation, astronomy and much more.
+I am an Electrical and Information Engineering student at Imperial College London.
 
-Here is my git repository.
+Here is my GitHub!
