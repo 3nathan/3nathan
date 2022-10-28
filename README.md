@@ -1,3 +1,3 @@
-I am an Electrical and Information Engineering student at Imperial College London.
+EIE '25 student @ ICL
 
-Here is my GitHub!
+here is my github
